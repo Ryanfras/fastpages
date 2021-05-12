@@ -1,1 +1,1 @@
-Sitemap: https://ryanfras.github.io/fastpages/sitemap.xml
+Sitemap: https://ryanfras.github.io/blog/sitemap.xml
